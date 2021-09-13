@@ -28,8 +28,8 @@
 <br />                       
 <br />
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rebek-007&show_icons=true&hide_border=true" />
+  <summary>:zap: My GitHub Stats</summary>
+  <img align="left" alt="rebek-007's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rebek-007&show_icons=true&hide_border=true" />
 </details>
-[instagram]: https://www.linkedin.com/in/adideb-das-007/
+[instagram]: https://www.instagram.com/adi_the_softy/
 [linkedin]: https://www.linkedin.com/in/adideb-das-007/
