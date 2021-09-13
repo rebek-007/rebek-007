@@ -10,15 +10,8 @@
 
 ### Connect with me:
 
-
-
-      <a href="https://www.instagram.com/adi_the_softy/"
-         img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-         width=150" height="70">
-     <a href="https://www.linkedin.com/in/adideb-das-007/">
-         <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-         width=150" height="70">
-
+[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rebek-007 | Instagram" width="22px" src="" />][Instagram]
 <br />
 
 ### Languages and Tools:
