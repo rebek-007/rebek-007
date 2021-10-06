@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857" />][linkedin]
 [<img align="left" alt="rebek-007 | Instagram" width="22px" src="" />][Instagram]
 <br />
 
@@ -31,4 +31,4 @@
   <img align="left" alt="rebek-007's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rebek-007&show_icons=true&hide_border=true" />
 </details>
 [instagram]: https://www.instagram.com/adi_the_softy/
-[linkedin]: https://www.linkedin.com/in/adideb-das-007/
+[linkedin]: https://www.linkedin.com/in/adideb-das/
