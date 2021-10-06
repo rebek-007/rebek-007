@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="https://www.linkedin.com/in/adideb-das/"/>]
+<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="https://www.linkedin.com/in/adideb-das/"/>
 <br />
 
 ### Languages and Tools:
