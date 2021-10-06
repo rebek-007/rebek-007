@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857" />][linkedin]
-[<img align="left" alt="rebek-007 | Instagram" width="22px" src="" />][Instagram]
+[<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857" href="https://www.linkedin.com/in/adideb-das/"/>][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -30,5 +29,3 @@
   <summary>:zap: My GitHub Stats</summary>
   <img align="left" alt="rebek-007's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rebek-007&show_icons=true&hide_border=true" />
 </details>
-[instagram]: https://www.instagram.com/adi_the_softy/
-[linkedin]: https://www.linkedin.com/in/adideb-das/
