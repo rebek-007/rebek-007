@@ -9,14 +9,18 @@
 - ⚡ Fun fact: I am a fitness freak!
 
 ### Connect with me:
+      <a href="https://www.linkedin.com/in/adideb-das/">
+         <img alt="rebek-007 | LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+         width="22px">
+      </a>
 
-<a href="https://www.linkedin.com/in/adideb-das/"<img align="left" alt="rebek-007 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />>
+
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/atom.png" />
+<img align="left" alt="Atom" width="26px" src="https://img-premium.flaticon.com/png/512/2999/premium/2999463.png?token=exp=1633510794~hmac=e08ea244f120555651676d12bcba7c9c" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
