@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebek-007" alt="rebek-007" /></a> </p>
 
-- 🔭 I’m currently working on [HacktoberFest](https://hacktoberfest.digitalocean.com/)
-
 - 🌱 I’m currently learning **backend development**
 
 - 👯 I’m looking to collaborate on **any open source projects**
