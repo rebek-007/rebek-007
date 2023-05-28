@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rebek-007</h1>
+<h1 align="center">Hi 👋, I'm Adideb Das</h1>
 <h3 align="center">an electronics engineer working in IoT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebek-007&label=Profile%20views&color=0e75b6&style=flat" alt="rebek-007" /> </p>
