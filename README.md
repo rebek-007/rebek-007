@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **dasadideb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12za6x5O_yl_zUcAXNltHDTuWHZvF3gUX/view?usp=share_link](https://drive.google.com/file/d/12za6x5O_yl_zUcAXNltHDTuWHZvF3gUX/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
