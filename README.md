@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dasadideb](https://medium.com/@dasadideb)
 
-- 💬 Ask me about **RISCV, Verilog, SystemVerilog**
+- 💬 Ask me about **RISCV, Verilog, SystemVerilog, IoT**
 
 - 📫 How to reach me **dasadideb@gmail.com**
 
