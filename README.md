@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adideb Das</h1>
-<h3 align="center">an electronics engineer working in IoT</h3>
+<h3 align="center">an electronics engineer working in both IoT and VLSI domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebek-007&label=Profile%20views&color=0e75b6&style=flat" alt="rebek-007" /> </p>
 
-- 🔭 I’m currently working on **Raspberry Pi**
+- 🔭 I’m currently working on **Face Recognition on Raspberry Pi**
 
 - 👯 I’m looking to collaborate on **hardware projects**
 
 - 📝 I regularly write articles on [https://medium.com/@dasadideb](https://medium.com/@dasadideb)
 
-- 💬 Ask me about **Embedded C, MicroPython, System C**
+- 💬 Ask me about **RISCV, Verilog, SystemVerilog**
 
 - 📫 How to reach me **dasadideb@gmail.com**
 
